@@ -1,4 +1,4 @@
-import{INCREASE,DECREASE,RESET} from "./actionTypes.js"
+import{INCREASE,DECREASE,RESET} from "../actions/actionTypes.js"
 
 const initialState=0
 
